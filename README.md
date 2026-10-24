@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Math
