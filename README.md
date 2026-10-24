@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2409-count-days-spent-together) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
