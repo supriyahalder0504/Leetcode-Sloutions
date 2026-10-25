@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 | [1732-find-the-highest-altitude](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
@@ -33,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2215-find-the-difference-of-two-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
