@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,8 +56,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 | [2352-equal-row-and-column-pairs](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2352-equal-row-and-column-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
