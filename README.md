@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,9 +74,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2390-removing-stars-from-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
