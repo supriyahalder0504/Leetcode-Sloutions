@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
