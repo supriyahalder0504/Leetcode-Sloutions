@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0649-dota2-senate) |
 | [2390-removing-stars-from-a-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0394-decode-string) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
