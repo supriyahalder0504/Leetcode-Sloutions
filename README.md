@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0872-leaf-similar-trees) |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0872-leaf-similar-trees) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
