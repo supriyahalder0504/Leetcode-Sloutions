@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1068-product-sales-analysis-i) |
+| [1211-queries-quality-and-percentage](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1633-percentage-of-users-attended-a-contest) |
