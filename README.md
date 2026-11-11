@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0872-leaf-similar-trees) |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3665-twisted-mirror-path-count](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
@@ -165,5 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
