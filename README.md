@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 | [1732-find-the-highest-altitude](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3665-twisted-mirror-path-count](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3665-twisted-mirror-path-count) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3665-twisted-mirror-path-count](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3882-minimum-xor-path-in-a-grid) |
