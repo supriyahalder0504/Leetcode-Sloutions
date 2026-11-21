@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0735-asteroid-collision) |
+| [0994-rotting-oranges](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 | [1732-find-the-highest-altitude](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1732-find-the-highest-altitude) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2352-equal-row-and-column-pairs) |
