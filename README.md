@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Depth-First Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -220,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
