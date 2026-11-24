@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2542-maximum-subsequence-score) |
 | [3665-twisted-mirror-path-count](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2542-maximum-subsequence-score) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0649-dota2-senate) |
+| [2542-maximum-subsequence-score](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2542-maximum-subsequence-score) |
 ## Queue
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2542-maximum-subsequence-score](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2542-maximum-subsequence-score) |
 ## Linked List
 |  |
 | ------- |
