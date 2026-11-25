@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0735-asteroid-collision) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0649-dota2-senate) |
 | [2390-removing-stars-from-a-string](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2409-count-days-spent-together) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0872-leaf-similar-trees) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0994-rotting-oranges) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1254-number-of-closed-islands) |
 ## Matrix
@@ -156,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -169,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Recursion
 |  |
@@ -235,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/2336-smallest-number-in-infinite-set) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
