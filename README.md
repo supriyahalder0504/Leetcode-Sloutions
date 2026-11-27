@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Design
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0399-evaluate-division) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/supriyahalder0504/Leetcode-Sloutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
